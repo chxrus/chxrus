@@ -4,14 +4,10 @@
   Mobile developer focused on building clean and scalable Flutter applications
 </p>
 
----
-
 ## 🧑‍💻 About me
 - Building mobile apps using Flutter and Dart  
 - Interested in clean architecture and design patterns  
 - I maintain <a href="https://github.com/lukovkin-a-volsu">a separate GitHub account</a> for university projects
- 
----
 
 ## 🛠 Core tools & technologies
 
@@ -32,14 +28,10 @@
   <img src="https://img.shields.io/badge/Yandex%20MapKit-FFCC00?style=for-the-badge" />
 </p>
 
----
-
 ## 📌 Experience with
 - Game development using **Flame** (<a href="https://github.com/chxrus/tetris">Tetris</a> implementation)  
 - Educational mobile app (routing, DI, BLoC, local DB, PDF rendering)  
 - Incident reporting app with **Yandex MapKit**, geolocation, image processing and Dart backend (dart_frog)
-
----
 
 ## 📬 Contacts
 
